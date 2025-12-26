@@ -59,7 +59,7 @@ The model is trained using the following features:
   - Class imbalance handling (`class_weight='balanced'`)
 
 ### 📈 Performance
-- ** Accuracy:** 90%
+- Accuracy: 90%
 - Strong recall for high congestion events (early warning capability)
 
 ---
@@ -127,7 +127,7 @@ ML-Network-project/
 
 ## 👩‍💻 Authors
 **Salma Choukrani & Nezha Halla**  
-Cybersecurity & Networking Engineering Student  
+Cybersecurity & Networking Engineering Students  
 AI • Networking • Machine Learning
 
 ---
